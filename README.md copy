@@ -39,7 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![] https://ezgif.com/optimize/ezgif-2-007fe92fc9.gif
+
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
@@ -47,26 +48,35 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 [YOUR ANSWER HERE]
-
+I did not use any outside resources besides the ones given to us in the instructions. 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]
+I encountered many problems when creating this game. One of them being the start and stop buttons were not working. I figured it was something that had to do with my code so the first
+thing I did was check my punctuation and spelling. I checked for capitaization and any other case sensitive errors and realized I did have a few spelling errors. I also stopped and restarted the program incase it was glitching 
+and realized that there was a problem with the way the program was running. Once I restarted the program it was working much better. Another problem I encountered was trying to submit this prework. At first none of my code wanted to transfer over
+and I did not know how to submit any of it, but after a while I was able to realize my laptop was having issues and I needed to restart it. I also realized that I was not following one of the instructions correctly so went back and redid my work. 
+I realzied many of the issues I was having was lack of understanding the instructions and just slowing down and focusing on what I am really doing. I resolved many of my issues by revising my work and slowing down. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
+I feel like I somewhat still dont understand the true meaning of HTTP, CSS, and Javascript. I say this because although we used each of them differenlty and they all have differnt functions, we can still use 
+one language to help us with most of the functions of the program. For example, when we were told to use CSS for styling and other cool features but, we ended up using javascript for the audio feature. I would also like to know how the 
+program knows that all three languages are working together to create this one program. Although this may sound dumb, I never knew we could combine languages to create one program, I thought we had to stick to one language for one development. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
-
+I recieved notice of the application very late and I think if I had more time I would have spent it costumizing my game a bit more. I would have liked to show my creativity by adding features taht are specific to me and only me. 
+I also think I would have spent more time taking notes on all of the features I was using and implementing in the game. I feel that I felt a bit rushed with this project and did not meet the expectations to the best of my abilities. 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://www.loom.com/share/d4a65eeffb694c0abd0a3cf76dffd1b3
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Marangelis Uben]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
